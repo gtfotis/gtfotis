@@ -1,4 +1,4 @@
 ![](./image.svg)
 
 - 😗 I'm otis 
-- 🔭 Currently working on ... everything.
+- 🔭 Currently working on myself
