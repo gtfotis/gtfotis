@@ -1,5 +1,8 @@
 Hey there, my name is otis and I'm an eight pound, six ounce, newborn baby dev :baby_chick:
 
+I'm currently learning: <img src='https://img.shields.io/badge/Framework-Docker-red?logo=docker'> <img src='https://img.shields.io/badge/Code-C%23-red?logo=csharp'> 
+
+
 You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2]
 
 [![gtfotis' GitHub stats](https://github-readme-stats.vercel.app/api?username=gtfotis&show_icons=true&theme=radical)
