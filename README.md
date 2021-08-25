@@ -1,6 +1,7 @@
 Hey there, my name is otis and I'm an eight pound, six ounce, newborn baby dev :baby_chick:
 
-I'm currently learning: 
+Currently learning: <br>
+
 <img src='https://img.shields.io/badge/Framework-Docker-red?logo=docker'> <img src='https://img.shields.io/badge/Code-C%23-red?logo=csharp'> 
 
 
