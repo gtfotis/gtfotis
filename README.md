@@ -1,4 +1,4 @@
-My name is otis and I'm an eight pound, six ounce, newborn baby dev :) 
+Hey there, my name is otis and I'm an eight pound, six ounce, newborn baby dev :) 
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
