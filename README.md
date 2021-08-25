@@ -7,7 +7,7 @@ Currently learning: <br>
 
 You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2]
 
-[![gtfotis' GitHub stats](https://github-readme-stats.vercel.app/api?username=gtfotis&show_icons=true&theme=radical)
+[![gtfotis' GitHub stats](https://github-readme-stats.vercel.app/api?username=gtfotis&show_icons=true&theme=dark)
 ](https://github.com/gtfotis/github-readme-stats)
 
 <img src='https://img.shields.io/badge/OS-Linux-9cf?logo=linux'> <img src='https://img.shields.io/badge/Editor-VS%20Code-9cf?logo=visualstudiocode'> <img src='https://img.shields.io/badge/Shell-Bash-9cf?logo=gnubash'>
