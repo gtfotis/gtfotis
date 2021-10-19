@@ -2,6 +2,10 @@ Hey there, my name is otis and I'm an eight pound, six ounce, newborn baby dev :
 
 Currently learning: <br>
 
+<img src='https://img.shields.io/badge/Framework-Next.js-critical?logo=nextdotjs'> <img src='https://img.shields.io/badge/Language-PHP-critical?logo=php'>
+
+Want to learn: <br>
+
 <img src='https://img.shields.io/badge/Framework-Docker-red?logo=docker'> <img src='https://img.shields.io/badge/Framework-Unity-red?logo=unity'> <img src='https://img.shields.io/badge/Code-C%23-red?logo=csharp'> 
 
 
