@@ -1,4 +1,4 @@
-Hey there, my name is otis and I'm an eight pound, six ounce, newborn baby dev :baby_chick:
+Hey there, my name is otis :baby_chick:
 
 Currently learning: <br>
 
