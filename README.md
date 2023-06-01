@@ -10,8 +10,8 @@ Want to learn: <br>
 
 
 You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2]
-
-[![gtfotis's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtfotis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![gtfotis's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtfotis&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img src='https://img.shields.io/badge/OS-Linux-9cf?logo=linux'> <img src='https://img.shields.io/badge/Editor-VS%20Code-9cf?logo=visualstudiocode'> <img src='https://img.shields.io/badge/Shell-Bash-9cf?logo=gnubash'>
 <img src='https://img.shields.io/badge/Code-JavaScript-9cf?logo=javascript'> <img src='https://img.shields.io/badge/Code-HTML5-9cf?logo=html5'> <br>
